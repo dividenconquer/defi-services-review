@@ -1,8 +1,8 @@
-# De-Fi Service Reviews
+# Daily De-Fi Service Reviews
 
-| Service Name | Category | Link |
-| :---: | :---: | :---: |
-| Moonpot | Lottery | [LINK](moonpot.md)   |
+| Service Name | Category | Link | Date|
+| :---: | :---: | :---: | :---: |
+| Moonpot | Lottery | [LINK](moonpot.md) | 2022-04-08 |
 
 # Why I made this?
 - There are tons of de-fi services and new services are comming in at vast speed. It's cumbersome to keep track them all by everyone themselves.
