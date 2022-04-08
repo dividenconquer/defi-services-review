@@ -1,6 +1,6 @@
 # Daily De-Fi Service Reviews
 
-| Service Name | Category | Link | Date|
+| Service Name | Category | Link | Date of Review |
 | :---: | :---: | :---: | :---: |
 | Moonpot | Lottery | [LINK](moonpot.md) | 2022-04-08 |
 
