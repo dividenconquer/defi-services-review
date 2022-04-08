@@ -17,3 +17,4 @@
 - It is plausible that one can win the lottery even if the input is small, but let's face it.
 The odds are too small and giving 50% interest away from staking is permanat loss.
 The way I see it, the whole purpose of this is to get more funds in beefy vault without giving any other benefits to users.
+- If I am willing to put large amount of my assets, the possible loss is too huge compared to the possible income from lottery win. And the compensation from lottery is divided into 3,5, or 10 users, so if I put assets in pot more certain percentage, it will be always loss if I am not the winner. 
