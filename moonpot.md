@@ -5,7 +5,7 @@
 
 ## 3 Line Summary
 
-- Moonpot is for sharing interests(in a way of lottery) from staking assets.
+- Moonpot is for sharing interests(in a way of lottery) from staked assets.
 - 50% of interest is a fee to joining a lottery (So no real loss to your base capital).
 - More you put into the pot, more likely you get the prize.
 
