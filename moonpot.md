@@ -1,7 +1,10 @@
 # Moonpot [LINK](https://play.moonpot.com/#/)
-> Stake Crypto, Earn Interest and Win Prizes
+> Stake Crypto, Earn Interest and Win Prizes  
+
+![스크린샷 2022-04-08 오전 11 01 08](https://user-images.githubusercontent.com/47938592/162350201-0bec7930-5c67-4ce2-8596-0e828166aae0.png)
 
 ## 3 Line Summary
+
 - Moonpot is for sharing interests(in a way of lottery) from staking assets.
 - 50% of interest is a fee to joining a lottery (So no real loss to your base capital).
 - More you put into the pot, more likely you get the prize.
