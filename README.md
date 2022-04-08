@@ -1,2 +1,5 @@
 # De-Fi Service Reviews
-1. [Moonpot](moonpot.md)
+
+| Service Name | Category | Link |
+| :---: | :---: | :---: |
+| Moonpot | Lottery | [LINK](moonpot.md)   |
